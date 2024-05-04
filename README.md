@@ -24,7 +24,7 @@ This repository hosts an R-based project designed to conduct Market Basket Analy
 ### Association Rule Graph
 Below is an example of a visualization output for association rules analyzed in this project:
 
-![Association Rule Visualization](images/Image1.png)
+![Association Rule Visualization](Images/Image1.png)
 
 This image shows a network graph of association rules generated from the market basket analysis. Each node represents an item, and the directed edges (arrows) represent the rules where one item leads to the purchase of another. For example, there's a directed arrow from "Coffee" to "Sugar Jars", suggesting that customers who buy coffee are likely to buy sugar jars as well. This insight helps in strategizing cross-selling and optimizing store layouts.
 
